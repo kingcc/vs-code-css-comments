@@ -1,6 +1,6 @@
-[![CircleCI](https://circleci.com/gh/ashhitch/vs-code-css-comments.svg?style=svg)](https://circleci.com/gh/ashhitch/vs-code-css-comments)
+[![CircleCI](https://circleci.com/gh/kingcc/vs-code-css-comments.svg?style=svg)](https://circleci.com/gh/kingcc/vs-code-css-comments)
 
-# VS Code CSS Comments 
+# VS Code CSS Comments - `//` Version
 
 ## Features
 
@@ -26,13 +26,13 @@ Trigger: `comment-section` + `enter`
 
 
 ```css
-/*=============================================
-=            Section comment block            =
-=============================================*/
+///////////////////////////////////////////////
+//           Section comment block           //
+///////////////////////////////////////////////
 
 
 
-/*=====  End of Section comment block  ======*/
+/*  ===  End of Section comment block  ===  */
 ```
 
 #### Section Header
@@ -40,9 +40,9 @@ Trigger: `comment-section` + `enter`
 Trigger: `comment-section-header` + `enter`
 
 ```css
-/*=============================================
-=            Section comment block            =
-=============================================*/
+///////////////////////////////////////////////
+//           Section comment block           //
+///////////////////////////////////////////////
 ```
 
 #### Section Footer
@@ -50,7 +50,7 @@ Trigger: `comment-section-header` + `enter`
 Trigger: `comment-section-footer` + `enter`
 
 ```css
-/*=====  End of Section comment block  ======*/
+/*  ===  End of Section comment block  ===  */
 ```
 
 #### Subsection
@@ -58,7 +58,7 @@ Trigger: `comment-section-footer` + `enter`
 Trigger: `comment-subsection` + `enter`
 
 ```css
-/*----------  Subsection comment block  ----------*/
+/*  ---  Subsection comment block  ---  */
 ```
 
 
@@ -68,14 +68,12 @@ Trigger: `comment-block` + `enter`
 
 ```css
 /**
- *
  * Block comment
- *
  */
  ```
 
  ## Bugs 
- Please report any bugs on the [GitHub repo](https://github.com/ashhitch/vs-code-css-comments/issues)
+ Please report any bugs on the [GitHub repo](https://github.com/kingcc/vs-code-css-comments/issues)
 
 
  ## Author
