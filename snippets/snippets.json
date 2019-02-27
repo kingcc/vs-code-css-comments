@@ -1,7 +1,7 @@
 {
 	"comment-block": {
 		"prefix": "comment-block",
-		"body": "\n/**\n *\n * ${1:Block comment}\n *\n */\n\n",
+		"body": "\n/**\n * ${1:Block comment}\n */\n\n",
 		"description": "Comment: Block style",
 		"scope": ""
 	},
@@ -13,7 +13,7 @@
 	},
 	"comment-section-footer": {
 		"prefix": "comment-section-footer",
-		"body": "\n/*===  End of ${1:Section comment block}  ===*/\n\n",
+		"body": "\n/*  ===  End of ${1:Section comment block}  ===  */\n\n",
 		"description": "Comment: Section footer",
 		"scope": ""
 	},
@@ -26,7 +26,7 @@
 	},
 	"comment-subsection": {
 		"prefix": "comment-subsection",
-		"body": "\n/*---  ${1:Subsection comment block}  ---*/\n\n",
+		"body": "\n/*  ---  ${1:Subsection comment block}  ---  */\n\n",
 		"description": "Comment: Subsection",
 		"scope": ""
 	},
