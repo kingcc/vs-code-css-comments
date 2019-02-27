@@ -13,7 +13,7 @@
 	},
 	"comment-section-footer": {
 		"prefix": "comment-section-footer",
-		"body": "\n/*  ===  End of ${1:Section comment block}  ===  */\n\n",
+		"body": "\n//////    End of ${1:Section comment block}    //////\n\n",
 		"description": "Comment: Section footer",
 		"scope": ""
 	},

@@ -32,7 +32,7 @@ Trigger: `comment-section` + `enter`
 
 
 
-/*  ===  End of Section comment block  ===  */
+//////    End of Section comment block    //////
 ```
 
 #### Section Header
@@ -78,6 +78,7 @@ Trigger: `comment-block` + `enter`
 
  ## Author
  [Ash Hitchcock](https://www.ashleyhitchcock.com)
+ [Kingcc](https://github.com/kingcc)
 
 
 ## Release Notes
